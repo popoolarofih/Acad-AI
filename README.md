@@ -1,5 +1,4 @@
 # Exam System API
-
 This is a Django-based REST API for an online exam system. It allows students to take exams, submit answers securely, and receive automated grading feedback.
 
 ## Features
@@ -7,7 +6,7 @@ This is a Django-based REST API for an online exam system. It allows students to
 -   **Database Modeling:** Relational database schema for exams, questions, and submissions using Supabase (PostgreSQL).
 -   **Secure Submission Endpoint:** Secure API endpoint for students to submit exam answers, with authentication and permissions to ensure data privacy.
 -   **Automated Grading:** Automated grading mechanism using a mock service and integration with the Groq LLM for text-based answers.
--   **API Documentation:** Comprehensive API documentation using Swagger (OpenAPI) and Redoc.
+-   **API Documentation:** Comprehensive API documentation using Swagger and Redoc.
 
 ## Requirements
 
